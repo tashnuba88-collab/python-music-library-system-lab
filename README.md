@@ -47,3 +47,6 @@ Song.artists       # ["Jay-Z", "Beyonce"]
 Song.genre_count   # {"Rap": 1, "Pop": 1}
 
 Song.artist_count  # {"Jay-Z": 1, "Beyonce": 1}
+
+## Test results
+![Test results](screenshot.png)
